@@ -19,4 +19,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\E-commerce.Console\E-commerce.Console.csproj" />
+    </ItemGroup>
+
 </Project>
